@@ -16,3 +16,5 @@
     
       // 传入“喜欢”视图的frame  30是“无感”与“喜欢”之间间距 20是大图片与“喜欢”的x方向间距
       backView.likeFrame = CGRectMake(CGRectGetMaxX(backView.disLikeFrame)+ 30, CGRectGetMaxY(bgIV.frame) + 20, 0, 0);
+      
+![实例演示][http://upload-images.jianshu.io/upload_images/1698345-a0daa19c317cf174.gif]
